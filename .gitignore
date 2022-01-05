@@ -26,3 +26,6 @@ yarn-error.log*
 # vite
 dist
 dist-ssr
+
+# storybook
+storybook-static
