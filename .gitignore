@@ -22,3 +22,7 @@ yarn-error.log*
 
 # env
 .envrc
+
+# vite
+dist
+dist-ssr
